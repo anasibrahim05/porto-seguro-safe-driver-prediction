@@ -1,0 +1,27 @@
+# Dataset Instructions
+
+The dataset used in this project comes from the Kaggle Porto Seguro Safe Driver Prediction competition.
+
+## Download
+
+Download the competition data from:
+
+[Porto Seguro Safe Driver Prediction – Kaggle](https://www.kaggle.com/competitions/porto-seguro-safe-driver-prediction/data)
+
+## Required Files
+
+Download and extract the following files into this directory:
+
+- `train.csv`
+- `test.csv`
+
+## Directory Structure
+
+```text
+data/
+├── train.csv
+├── test.csv
+└── README.md
+```
+
+**Note:** Dataset files are not included in this GitHub repository. Download them directly from Kaggle before running the notebook.
