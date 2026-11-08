@@ -1,0 +1,22 @@
+# Core data science
+numpy
+pandas
+scipy
+
+# Data visualization
+matplotlib
+seaborn
+
+# Machine learning
+scikit-learn
+
+# Deep learning (PyTorch with CUDA 11.8)
+--extra-index-url https://download.pytorch.org/whl/cu118
+torch==2.7.1+cu118
+
+# Hyperparameter optimization
+optuna
+
+# Jupyter Notebook
+jupyter
+ipykernel
